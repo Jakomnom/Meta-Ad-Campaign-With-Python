@@ -1,9 +1,9 @@
 # Meta-Ad-Campaign-With-Python
 
-Introduction
-Welcome to the comprehensive guide on the importance of analyzing Facebook ads. In the modern era of digital marketing, Facebook ads have emerged as a powerful tool for businesses to reach their target audience. However, running ads is only half the battle; analyzing their performance is equally crucial for achieving success.
+## Introduction
+In the modern era of digital marketing, Facebook ads have emerged as a powerful tool for businesses to reach their target audience. However, running ads is only half the battle; analyzing their performance is equally crucial for achieving success.
 
-Why Analyze Facebook Ads?
+## Why Analyze Facebook Ads?
 Analyzing your Facebook ads provides invaluable insights into the effectiveness of your marketing efforts. It helps you understand what's working and what needs improvement, enabling data-driven decision-making. By analyzing your ads, you can:
 
   - Optimize Campaigns: Identifying which ads, audiences, and placements yield the best results allows you to allocate your budget wisely.
@@ -14,7 +14,10 @@ Analyzing your Facebook ads provides invaluable insights into the effectiveness 
 
   - Budget Allocation: Distribute your budget strategically to campaigns that perform well, reducing wastage on ineffective ones.
 
-  - Stay Competitive: Constant analysis helps you stay ahead of market trends and competitor strategies.  
+  - Stay Competitive: Constant analysis helps you stay ahead of market trends and competitor strategies.
+
+*** I can't share the dataset because it is subject to confidentiality constraints and legal agreements, preventing me from sharing it. But there are datasets available from kaggle that is publicly available, should you want to tinker. You can find it [here](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign)
+
 
 ### Key Metrics/ Terms
 
