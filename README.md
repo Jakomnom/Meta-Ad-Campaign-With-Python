@@ -16,7 +16,7 @@ Analyzing your Facebook ads provides invaluable insights into the effectiveness 
 
   - Stay Competitive: Constant analysis helps you stay ahead of market trends and competitor strategies.
 
-*** I can't share the dataset because it is subject to confidentiality constraints and legal agreements, preventing me from sharing it. But there are datasets available from kaggle that is publicly available, should you want to tinker. You can find it [here](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign)
+*** I can't share the dataset because it is subject to confidentiality constraints and legal agreements, preventing me from sharing it. But there are datasets available from kaggle that is publicly available, should you want to tinker. You can find it [here](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign).
 
 
 ### Key Metrics/ Terms
